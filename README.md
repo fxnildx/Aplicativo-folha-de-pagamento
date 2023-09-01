@@ -22,4 +22,6 @@ Android Studio Flamingo 2022 2.1
 
 *Primeira versão*
 
+Este app utiliza o Firebase como banco de dados.
+
 android
