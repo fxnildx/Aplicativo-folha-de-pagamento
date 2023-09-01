@@ -1,6 +1,11 @@
-# Aplicativo Folha de Pagamento
+# Aplicativo de Folha de Pagamento (Em Desenvolvimento)
 
-Aplicativo desenvolvido para trabalho de faculdade. Folha de pagamento serve como um hub para gerenciamento da folha de pagamento.
+Este é um aplicativo de Folha de Pagamento desenvolvido como parte de um projeto acadêmico em andamento na faculdade. 
+O aplicativo é projetado para dispositivos móveis Android e serve como um hub central para o gerenciamento eficiente da folha de pagamento de uma organização.
+
+# Descrição do Projeto
+
+O Aplicativo de Folha de Pagamento está sendo desenvolvido com o objetivo de simplificar e automatizar o processo de gestão de pagamento de funcionários.
 
 # Desenvolvimento
 
@@ -18,10 +23,11 @@ Android Studio Flamingo 2022 2.1
 
 [Tela Menu Principal](https://github.com/fxnildx/Aplicativo-folha-de-pagamento/assets/71227147/d93c12ef-1f2e-411b-a56e-8b638c3ead3b)
 
+# Estado Atual
+
+Este projeto está atualmente em desenvolvimento ativo. O aplicativo já utiliza o Firebase para armazenar dados de forma segura e está funcional em partes essenciais. 
+
 # Status de Build
 
 *Primeira versão*
 
-Este app utiliza o Firebase como banco de dados.
-
-android
